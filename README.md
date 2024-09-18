@@ -1,3 +1,6 @@
+## Comment about the Fork
+This repository is a fork of the original repository located at [https://github.com/ShaymaEssghaier/Sign_language]. It is the final group project (in collaboration with MickaelTaivr and ShaimaEssghaier) from the Data Scientist bootcamp I attended between April and July 2024.
+
 # Sign Language Video Generation
 The aim of this repository is to generate videos in American Sign Language (ASL) from text input.
 
